@@ -1,3 +1,3 @@
 # 2025-Den-04-DA
 
-Glab Repository
+Created branches for each module to save assignements in.
